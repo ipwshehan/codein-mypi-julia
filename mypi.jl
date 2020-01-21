@@ -5,5 +5,5 @@ function mypi(n)
     end
     x = x * 6
     x = sqrt(x)
-    println("The value of π is : ", x);
+    return x
 end
